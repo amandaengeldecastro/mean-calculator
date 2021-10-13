@@ -8,4 +8,4 @@ So, the purpose of this code is allow you to enter 3 numbers (exclusively positi
 2. Geometric mean - calculated as the -th root of the product of all values;
 3. Harmonic mean - calculated as the number of values divided by the sum of one over each value.
 
-There is a similar exercice in the book "Algoritmos e Programação" written by Afonso Inácio Orth. 
+There is a similar exercice in the book "Algoritmos e Programação" written by Afonso Inácio Orth. # mean-calculator
