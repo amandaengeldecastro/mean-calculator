@@ -1,4 +1,4 @@
-Mean Calculator
+###Mean Calculator
 
 Calculating the central tendency is a common operation in machine learning. 
 The central tendency is calculated by the average of a variable, also called mean.
@@ -10,6 +10,4 @@ So, the purpose of this code is allow you to enter 3 numbers (exclusively positi
 
 There is a similar exercice in the book "Algoritmos e Programação" written by Afonso Inácio Orth. # mean-calculator
 #mean-calculator
-# mean-calculator
-# mean-calculator
-# mean-calculator
+
