@@ -1,4 +1,4 @@
-###Mean Calculator
+Mean Calculator
 
 Calculating the central tendency is a common operation in machine learning. 
 The central tendency is calculated by the average of a variable, also called mean.
